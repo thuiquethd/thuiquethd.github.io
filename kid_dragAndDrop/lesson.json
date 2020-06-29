@@ -17,7 +17,8 @@
       "sound" : "sound",
       "summary" : "summary"
     } ],
-    "title" : "Actions 1"
+    "title" : "Actions 1",
+    "cover" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/RS998_Dance%20col-int_2.jpg"
   }, {
     "description" : "Play a word game to practise actions vocabulary.",
     "less" : [ {
@@ -36,6 +37,8 @@
       "sound" : "sound",
       "summary" : "summary"
     } ],
-    "title" : "Actions 1"
+    "title" : "Actions 2",
+     "cover" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/RS998_Dance%20col-int_2.jpg"
+
   } ]
 }
