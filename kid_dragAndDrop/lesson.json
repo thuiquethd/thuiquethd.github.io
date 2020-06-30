@@ -37,29 +37,88 @@
       "name" : "Clap",
       "sound" : "http://gamedata.britishcouncil.org/sites/default/files/attachment/clap.mp3",
       "summany" : "Match the word to the picture."
-    }],
+    },
+	 {
+      "image" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/RS5096_Catch%20col-int.jpg",
+      "name" : "Catch",
+      "sound" : "http://gamedata.britishcouncil.org/sites/default/files/attachment/catch2.mp3",
+      "summany" : "Match the word to the picture."
+    },
+	 {
+      "image" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1007_Skip%20col-int.jpg",
+      "name" : "Skip",
+      "sound" : "http://gamedata.britishcouncil.org/sites/default/files/attachment/skip.mp3",
+      "summany" : "Match the word to the picture."
+    },
+	 {
+      "image" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/RS5517_Touch%20col-int.jpg",
+      "name" : "Skip",
+      "sound" : "http://gamedata.britishcouncil.org/sites/default/files/attachment/touch2.mp3",
+      "summany" : "Match the word to the picture."
+    }
+	],
     "title" : "Actions 1",
     "cover" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/RS998_Dance%20col-int_2.jpg"
   }, {
-    "description" : "Play a word game to practise actions vocabulary.",
+    "description" : "Play a word game to learn and practise more actions vocabulary.",
     "less" : [ {
-      "image" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/RS998_Dance%20col-int_2.jpg",
-      "name" : "Dance1",
-      "sound" : "http://gamedata.britishcouncil.org/sites/default/files/attachment/dance_1.mp3",
+      "image" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1000_Dig%20col-int_0.jpg",
+      "name" : "Dig",
+      "sound" : "http://gamedata.britishcouncil.org/sites/default/files/attachment/dig_0.mp3",
       "summany" : "Match the word to the picture."
     }, {
-      "image" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/RS998_Dance%20col-int_2.jpg",
-      "name" : "Dance2",
-      "sound" : "http://gamedata.britishcouncil.org/sites/default/files/attachment/dance_1.mp3",
+      "image" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/RS5515_Shout%20col-int.jpg",
+      "name" : "Shout",
+      "sound" : "http://gamedata.britishcouncil.org/sites/default/files/attachment/shout.mp3",
       "summany" : "Match the word to the picture."
     }, {
-      "image" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/RS998_Dance%20col-int_2.jpg",
-      "name" : "Dance3",
-      "sound" : "http://gamedata.britishcouncil.org/sites/default/files/attachment/dance_1.mp3",
+      "image" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/RS5506_Follow%20col-int.jpg",
+      "name" : "Follow",
+      "sound" : "http://gamedata.britishcouncil.org/sites/default/files/attachment/follow.mp3",
       "summany" : "Match the word to the picture."
-    } ],
+    } , {
+      "image" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/RS5507_Hide%20col-int.jpg",
+      "name" : "Hide",
+      "sound" : "http://gamedata.britishcouncil.org/sites/default/files/attachment/hide_0.mp3",
+      "summany" : "Match the word to the picture."
+    } 
+	, {
+      "image" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/RS6474_Funny%20Laugh%20col-int_0.jpg",
+      "name" : "Laugh",
+      "sound" : "http://gamedata.britishcouncil.org/sites/default/files/attachment/laugh.mp3",
+      "summany" : "Match the word to the picture."
+    } 
+	, {
+      "image" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/RS6390_Blow%20Bubbles%20col-int.jpg",
+      "name" : "Bubbles",
+      "sound" : "http://gamedata.britishcouncil.org/sites/default/files/attachment/blow_0.mp3",
+      "summany" : "Match the word to the picture."
+    } 
+	, {
+      "image" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/RS6481_42%20Hug%20col-int.jpg",
+      "name" : "Hug",
+      "sound" : "http://gamedata.britishcouncil.org/sites/default/files/attachment/hug.mp3",
+      "summany" : "Match the word to the picture."
+    } 
+	, {
+      "image" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/RS7078_See%20col-int.jpg",
+      "name" : "See",
+      "sound" : "http://gamedata.britishcouncil.org/sites/default/files/attachment/look2.mp3",
+      "summany" : "Match the word to the picture."
+    } , {
+      "image" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/RS7084_Taste%20col-int.jpg",
+      "name" : "Taste",
+      "sound" : "http://gamedata.britishcouncil.org/sites/default/files/attachment/taste_0.mp3",
+      "summany" : "Match the word to the picture."
+    }  , {
+      "image" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/RS7082_Smell%20col-int_0.jpg",
+      "name" : "Smell",
+      "sound" : "http://gamedata.britishcouncil.org/sites/default/files/attachment/smell.mp3",
+      "summany" : "Match the word to the picture."
+    } 
+	],
     "title" : "Actions 2",
-     "cover" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/RS998_Dance%20col-int_2.jpg"
+     "cover" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/RS6390_Blow%20Bubbles%20col-int.jpg"
 
   } ]
 }
