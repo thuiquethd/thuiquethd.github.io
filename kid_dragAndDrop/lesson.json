@@ -114,7 +114,7 @@
             },
             {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS7078_See%20col-int.jpg",
-               "name":"See",
+               "name":"Look",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/look2.mp3",
                "summany":"Match the word to the picture."
             },
@@ -164,13 +164,13 @@
             {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1013_Turn%20around%20col-int.jpg",
                "name":"Turn around",
-               "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/turn around.mp3",
+               "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/turn%20around.mp3",
                "summany":"Match the word to the picture."
             },
             {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS5510_Quarrel-Argue%20col-int.jpg",
                "name":"Argue",
-               "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/argue.mp33",
+               "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/argue.mp3",
                "summany":"Match the word to the picture."
             },
             {
@@ -182,7 +182,7 @@
             {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS7076_Say%20sorry%20col-int.jpg",
                "name":"Say Sorry",
-               "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/say sorry.mp3",
+               "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/say%20sorry.mp3",
                "summany":"Match the word to the picture."
             },
             {
