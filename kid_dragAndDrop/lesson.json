@@ -3,7 +3,7 @@
     "description" : "Play a word game to practise actions vocabulary.",
     "less" : [ {
       "image" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/RS998_Dance%20col-int_2.jpg",
-      "name" : "Dance1",
+      "name" : "Dance",
       "sound" : "http://gamedata.britishcouncil.org/sites/default/files/attachment/dance_1.mp3",
       "summany" : "Match the word to the picture."
     }, {
