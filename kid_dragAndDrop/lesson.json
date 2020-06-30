@@ -12,10 +12,10 @@
       "sound" : "http://gamedata.britishcouncil.org/sites/default/files/attachment/dance_1.mp3",
       "summany" : "Match the word to the picture."
     }, {
-      "image" : "image",
-      "name" : "name",
-      "sound" : "sound",
-      "summary" : "summary"
+      "image" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/RS998_Dance%20col-int_2.jpg",
+      "name" : "Dance",
+      "sound" : "http://gamedata.britishcouncil.org/sites/default/files/attachment/dance_1.mp3",
+      "summany" : "Match the word to the picture."
     } ],
     "title" : "Actions 1"
   }, {
@@ -31,10 +31,10 @@
       "sound" : "http://gamedata.britishcouncil.org/sites/default/files/attachment/dance_1.mp3",
       "summany" : "Match the word to the picture."
     }, {
-      "image" : "image",
-      "name" : "name",
-      "sound" : "sound",
-      "summary" : "summary"
+      "image" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/RS998_Dance%20col-int_2.jpg",
+      "name" : "Dance",
+      "sound" : "http://gamedata.britishcouncil.org/sites/default/files/attachment/dance_1.mp3",
+      "summany" : "Match the word to the picture."
     } ],
     "title" : "Actions 1"
   } ]
