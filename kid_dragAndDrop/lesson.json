@@ -212,7 +212,8 @@
          ],
          "title":"Actions 3",
          "cover":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS7089_Leave%20col-int.jpg"
-      },{
+      },
+      {
          "description":"Play a word game to learn and practise Ancient Egypt vocabulary.",
          "less":[
             {
@@ -220,42 +221,49 @@
                "name":"Thoth",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/Thoth.mp3",
                "summany":"Match the word to the picture."
-            },{
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS5122_Bastet%20col-int.jpg",
                "name":"Bastet",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/Bastet.mp3",
                "summany":"Match the word to the picture."
-            },{
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS5121_Anubis%20col-int.jpg",
                "name":"Anubis",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/Anubis.mp3",
                "summany":"Match the word to the picture."
-            },{
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS5123_Ra%20col-int.jpg",
                "name":"Ra",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/Ra.mp3",
                "summany":"Match the word to the picture."
-            },{
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS2155_Pyramids%20col-int_0.jpg",
                "name":"Pyramids",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/pyramids_0.mp3",
                "summany":"Match the word to the picture."
-            },{
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1710_Hieroglyphs%20col-int.jpg",
                "name":"Hieroglyphs",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/hieroglyphs.mp3",
                "summany":"Match the word to the picture."
-            },{
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1215_Cobra%20col-int.jpg",
                "name":"Cobra",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/cobra.mp3",
                "summany":"Match the word to the picture."
-            },{
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1715_Tomb%20col-int.jpg",
                "name":"Tomb",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/tomb_0.mp3",
                "summany":"Match the word to the picture."
-            },
+            }
          ],
          "title":"Ancient Egypt",
          "cover":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1710_Hieroglyphs%20col-int.jpg"
