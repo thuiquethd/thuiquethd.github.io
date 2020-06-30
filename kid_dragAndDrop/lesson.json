@@ -7,16 +7,37 @@
       "sound" : "http://gamedata.britishcouncil.org/sites/default/files/attachment/dance_1.mp3",
       "summany" : "Match the word to the picture."
     }, {
-      "image" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/RS998_Dance%20col-int_2.jpg",
-      "name" : "Dance2",
-      "sound" : "http://gamedata.britishcouncil.org/sites/default/files/attachment/dance_1.mp3",
+      "image" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1001_Hop%20col-int.jpg",
+      "name" : "Hop",
+      "sound" : "http://gamedata.britishcouncil.org/sites/default/files/attachment/hop.mp3",
       "summany" : "Match the word to the picture."
     }, {
-      "image" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/RS998_Dance%20col-int_2.jpg",
-      "name" : "Dance3",
-      "sound" : "http://gamedata.britishcouncil.org/sites/default/files/attachment/dance_1.mp3",
+      "image" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1002_Jump%20col-int.jpg",
+      "name" : "Jump",
+      "sound" : "http://gamedata.britishcouncil.org/sites/default/files/attachment/jump_4.mp3",
       "summany" : "Match the word to the picture."
-    } ],
+    }, {
+      "image" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1004_Run%20col-int_0.jpg",
+      "name" : "Run",
+      "sound" : "http://gamedata.britishcouncil.org/sites/default/files/attachment/run_3.mp3",
+      "summany" : "Match the word to the picture."
+    }, {
+      "image" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/RS5522_Wave%20col-int.jpg",
+      "name" : "Wave",
+      "sound" : "http://gamedata.britishcouncil.org/sites/default/files/attachment/wave_2.mp3",
+      "summany" : "Match the word to the picture."
+    }, {
+      "image" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1010_Walk%20col-int.jpg",
+      "name" : "Walk",
+      "sound" : "http://gamedata.britishcouncil.org/sites/default/files/attachment/walk_2.mp3",
+      "summany" : "Match the word to the picture."
+    }
+	, {
+      "image" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1011_Clap%20col-int_0.jpg",
+      "name" : "Clap",
+      "sound" : "http://gamedata.britishcouncil.org/sites/default/files/attachment/clap.mp3",
+      "summany" : "Match the word to the picture."
+    }],
     "title" : "Actions 1",
     "cover" : "https://gamedata.britishcouncil.org/sites/default/files/attachment/RS998_Dance%20col-int_2.jpg"
   }, {
