@@ -268,7 +268,7 @@
          "title":"Ancient Egypt",
          "cover":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1710_Hieroglyphs%20col-int.jpg"
       },
-	   {
+      {
          "description":"Play a word game to learn and practise birds vocabulary",
          "less":[
             {
@@ -276,57 +276,66 @@
                "name":"Duck",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/duck_3.mp3",
                "summany":"Match the word to the picture."
-            },{
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1129_Eagle%20col-int.jpg",
                "name":"Eagle",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/eagle.mp3",
                "summany":"Match the word to the picture."
-            },{
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1130_Emu%20col-int.jpg",
                "name":"Emu",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/emu.mp3",
                "summany":"Match the word to the picture."
-            },{
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1131_Flamingo%20col-int.jpg",
                "name":"Flamingo",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/flamingo_0.mp3",
                "summany":"Match the word to the picture."
-            },{
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1133_Parrot%20col-int.jpg",
                "name":"Parrot",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/parrot_0.mp3",
                "summany":"Match the word to the picture."
-            },{
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1135_Turkey%20col-int.jpg",
                "name":"Turkey",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/turkey_1.mp3",
                "summany":"Match the word to the picture."
-            },{
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1136_Vulture%20col-int.jpg",
                "name":"Vulture",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/vulture.mp3",
                "summany":"Match the word to the picture."
-            },{
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1132_Owl%20col-int_1.jpg",
                "name":"Owl",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/owl_0.mp3",
                "summany":"Match the word to the picture."
-            },{
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1192_Dove%20col-int.jpg",
                "name":"Dove",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/dove.mp3",
                "summany":"Match the word to the picture."
-            },{
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1134_Robin%20col-int.jpg",
                "name":"Robin",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/robin.mp3",
                "summany":"Match the word to the picture."
-            },
+            }
          ],
          "title":"Birds",
          "cover":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1134_Robin%20col-int.jpg"
       },
-	   {
+      {
          "description":"Play a word game to learn and practise birds vocabulary",
          "less":[
             {
@@ -334,47 +343,54 @@
                "name":"Frog",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/frog_0.mp3",
                "summany":"Match the word to the picture."
-            }, {
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1218_Lizard%20col-int.jpg",
                "name":"Lizard",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/lizard.mp3",
                "summany":"Match the word to the picture."
-            }, {
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1220_Snake%20col-int_0.jpg",
                "name":"Snake",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/snake_4.mp3",
                "summany":"Match the word to the picture."
-            }, {
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1222_Turtle%20col-int.jpg",
                "name":"Turtle",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/turtle_0.mp3",
                "summany":"Match the word to the picture."
-            }, {
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1221_Tortoise%20col-int_0.jpg",
                "name":"Tortoise",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/tortoise.mp3",
                "summany":"Match the word to the picture."
-            }, {
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1216_Crocodile%20col-int.jpg",
                "name":"Crocodile",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/crocodile-2.mp3",
                "summany":"Match the word to the picture."
-            }, {
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1219_Scorpion%20col-int.jpg",
                "name":"Scorpion",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/scorpion.mp3",
                "summany":"Match the word to the picture."
-            }, {
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS5136_Snail%20col-int_2.jpg",
                "name":"Snail",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/snail_3.mp3",
                "summany":"Match the word to the picture."
-            },
+            }
          ],
          "title":"Reptiles and amphibians",
          "cover":"Play a word game to learn and practise reptiles and amphibians vocabulary."
       },
-	   {
+      {
          "description":"Play a word game to learn and practise animal body parts vocabulary.",
          "less":[
             {
@@ -382,47 +398,54 @@
                "name":"Fur",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/fur_0.mp3",
                "summany":"Match the word to the picture."
-            }, {
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1324_Tail%20col-int_1.jpg",
                "name":"Tail",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/tail_3.mp3",
                "summany":"Match the word to the picture."
-            }, {
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/wing-intex_1.jpg",
                "name":"wing",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/wing_1.mp3",
                "summany":"Match the word to the picture."
-            }, {
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1318_Feathers%20col-int.jpg",
                "name":"Feathers",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/feathers.mp3",
                "summany":"Match the word to the picture."
-            }, {
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1317_Claws%20col-int.jpg",
                "name":"Claws",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/claws2_0.mp3",
                "summany":"Match the word to the picture."
-            }, {
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1316_Beak%20col-int.jpg",
                "name":"Beak",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/beak.mp3",
                "summany":"Match the word to the picture."
-            }, {
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1323_Shell%20col-int.jpg",
                "name":"Shell",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/shell_2.mp3",
                "summany":"Match the word to the picture."
-            }, {
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1319_Fins%20col-int.jpg",
                "name":"Fins",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/fins.mp3",
                "summany":"Match the word to the picture."
-            },
+            }
          ],
          "title":"Animal body parts 1",
          "cover":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1317_Claws%20col-int.jpg"
       },
-	   {
+      {
          "description":"Play a word game to learn and practise more animal body parts vocabulary.",
          "less":[
             {
@@ -430,47 +453,54 @@
                "name":"Scales",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/scales.mp3",
                "summany":"Match the word to the picture."
-            },{
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS5129_Fang%20col-int_2.jpg",
                "name":"Fang",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/fang_3.mp3",
                "summany":"Match the word to the picture."
-            },{
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS5131_Hoof%20col-int_0.jpg",
                "name":"Hoof",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/hoof.mp3",
                "summany":"Match the word to the picture."
-            },{
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS5132_Horn%20col-int_0.jpg",
                "name":"Horn",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/horn_0.mp3",
                "summany":"Match the word to the picture."
-            },{
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS5529_Jaws%20col-int_0.jpg",
                "name":"Jaws",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/jaws.mp3",
                "summany":"Match the word to the picture."
-            },{
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS5530_Snout%20col-int_0.jpg",
                "name":"Snout",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/snout.mp3",
                "summany":"Match the word to the picture."
-            },{
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1321_Paws%20col-int_0.jpg",
                "name":"Paws",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/paws.mp3",
                "summany":"Match the word to the picture."
-            },{
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1325_Whiskers%20col-int_0.jpg",
                "name":"Whiskers",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/whiskers.mp3",
                "summany":"Match the word to the picture."
-            }, 
+            }
          ],
          "title":"Animal body parts 2",
          "cover":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS5129_Fang%20col-int_2.jpg"
       },
-	   {
+      {
          "description":"Play a word game to learn and practise landmarks vocabulary.",
          "less":[
             {
@@ -478,37 +508,42 @@
                "name":"Big Ben",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/big ben.mp3",
                "summany":"Match the word to the picture."
-            }, {
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS2151_Eiffel%20Tower%20col-int.jpg",
                "name":"Eiffel Tower",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/eiffel tower.mp3",
                "summany":"Match the word to the picture."
-            }, {
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS2153_Leaning%20Tower%20of%20Pisa%20col-int.jpg",
                "name":"Leaning Tower of Pisa",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/leaning tower of Pisa.mp3",
                "summany":"Match the word to the picture."
-            }, {
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS2155_Pyramids%20col-int.jpg",
                "name":"Pyramids",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/pyramids.mp3",
                "summany":"Match the word to the picture."
-            }, {
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS2157_Stonehenge%20col-int.jpg",
                "name":"Stonehenge",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/Stonehenge.mp3",
                "summany":"Match the word to the picture."
-            }, {
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS2158_Sydney%20Opera%20House%20col-int.jpg",
                "name":"Sydney Opera House",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/Sydney Opera House.mp3",
                "summany":"Match the word to the picture."
-            },
+            }
          ],
          "title":"Landmarks 1",
          "cover":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS2153_Leaning%20Tower%20of%20Pisa%20col-int.jpg"
       },
-	   {
+      {
          "description":"Play a word game to learn and practise more landmarks vocabulary.",
          "less":[
             {
@@ -516,42 +551,48 @@
                "name":"Angkor Wat",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/Ankor Wat.mp3",
                "summany":"Match the word to the picture."
-            },{
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS2148_Ayers%20Rock%20col-int_0.jpg",
                "name":"Ayers Rock",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/Ayres rock.mp3",
                "summany":"Match the word to the picture."
-            },{
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS2152_Great%20Wall%20of%20China%20col-int_1.jpg",
                "name":"Great Wall of China",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/great wall of China.mp3",
                "summany":"Match the word to the picture."
-            },{
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS2156_Statue%20of%20Liberty%20col-int_0.jpg",
                "name":"Statue of Liberty",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/Statue of Liberty.mp3",
                "summany":"Match the word to the picture."
-            },{
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS2150_Colosseum%20col-int_0.jpg",
                "name":"Colosseum",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/colosseum.mp3",
                "summany":"Match the word to the picture."
-            },{
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS2154_London%20Eye%20col-int_0.jpg",
                "name":"London Eye",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/London eye.mp3",
                "summany":"Match the word to the picture."
-            },{
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS6513_Tower%20Bridge%20col-int_0.jpg",
                "name":"Tower Bridge",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/Tower bridge.mp3",
                "summany":"Match the word to the picture."
-            },
+            }
          ],
          "title":"Landmarks 2",
          "cover":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS2152_Great%20Wall%20of%20China%20col-int_1.jpg"
       },
-	   {
+      {
          "description":"Play a word game to learn and practise flags vocabulary.",
          "less":[
             {
@@ -559,64 +600,73 @@
                "name":"Canada",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/canada.mp3",
                "summany":"Match the word to the picture."
-            }, {
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS5242_Vietnam%20col-int_0.jpg",
                "name":"Vietnam",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/Vietnam.mp3",
                "summany":"Match the word to the picture."
-            }, {
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS5236_Greece%20col-int_0.jpg",
                "name":"Greece",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/Greece.mp3",
                "summany":"Match the word to the picture."
-            }, {
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS5240_Switzerland%20col-int_0.jpg",
                "name":"Switzerland",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/Switzerland.mp3",
                "summany":"Match the word to the picture."
-            }, {
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS5237_Jordan%20col-int.jpg",
                "name":"Jordan",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/Jordan.mp3",
                "summany":"Match the word to the picture."
-            }, {
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS5231_Algeria%20col-int_0.jpg",
                "name":"Algeria",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/Algeria.mp3",
                "summany":"Match the word to the picture."
-            }, {
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS5239_Nepal%20col-int_0.jpg",
                "name":"Nepal",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/Nepal.mp3",
                "summany":"Match the word to the picture."
-            }, {
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS5235_Ghana%20col-int_0.jpg",
                "name":"Ghana",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/Ghana.mp3",
                "summany":"Match the word to the picture."
-            }, {
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS5232_Azerbaijan%20col-int_0.jpg",
                "name":"Azerbaijan",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/Azerbaijan.mp3",
                "summany":"Match the word to the picture."
-            }, {
+            },
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/brazil-intex.jpg",
                "name":"Brazil",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/Brazil_2.mp3",
                "summany":"Match the word to the picture."
             },
-			 {
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS5234_Georgia%20col-int_0.jpg",
                "name":"Georgia",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/Georgia.mp3",
                "summany":"Match the word to the picture."
             },
-			{
+            {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS5238_Namibia%20col-int.jpg",
                "name":"Namibia",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/Namibia.mp3",
                "summany":"Match the word to the picture."
-            },
+            }
          ],
          "title":"Flags",
          "cover":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS5234_Georgia%20col-int_0.jpg"
