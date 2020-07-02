@@ -605,13 +605,13 @@
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/Brazil_2.mp3",
                "summany":"Match the word to the picture."
             },
-			, {
+			 {
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS5234_Georgia%20col-int_0.jpg",
                "name":"Georgia",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/Georgia.mp3",
                "summany":"Match the word to the picture."
             },
-			, {
+			{
                "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS5238_Namibia%20col-int.jpg",
                "name":"Namibia",
                "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/Namibia.mp3",
