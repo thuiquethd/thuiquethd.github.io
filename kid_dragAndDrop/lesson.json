@@ -1218,6 +1218,79 @@
          ],
          "title":"Clothes - accessories",
          "cover":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1497_Watch%20col-int.jpg"
+      },
+	  {
+   "description":"Play a word game to learn and practise colours vocabulary.",
+   "less":[
+      {
+         "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/Red-intex.jpg",
+         "name":"Red",
+         "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/red_4.mp3",
+         "summany":"Match the word to the picture."
+      },
+      {
+         "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/Yellow-intex.jpg",
+         "name":"Yellow",
+         "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/yellow_4.mp3",
+         "summany":"Match the word to the picture."
+      },
+      {
+         "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/Blue-intex_0.jpg",
+         "name":"Blue",
+         "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/blue_3.mp3",
+         "summany":"Match the word to the picture."
+      },
+      {
+         "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/Green-intex.jpg",
+         "name":"Green",
+         "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/green_5.mp3",
+         "summany":"Match the word to the picture."
+      },
+      {
+         "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/Purple-intex.jpg",
+         "name":"Purple",
+         "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/purple2_0.mp3",
+         "summany":"Match the word to the picture."
+      },
+      {
+         "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/Orange-intex.jpg",
+         "name":"Orange",
+         "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/orange_5.mp3",
+         "summany":"Match the word to the picture."
+      },
+      {
+         "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/Black-intex.jpg",
+         "name":"Black",
+         "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/black2.mp3",
+         "summany":"Match the word to the picture."
+      },
+      {
+         "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/White-intex.jpg",
+         "name":"White",
+         "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/white_7.mp3",
+         "summany":"Match the word to the picture."
+      },
+      {
+         "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/Pink-intex.jpg",
+         "name":"Pink",
+         "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/pink_3.mp3",
+         "summany":"Match the word to the picture."
+      },
+      {
+         "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/Brown-intex.jpg",
+         "name":"Brown",
+         "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/brown2.mp3",
+         "summany":"Match the word to the picture."
+      },
+      {
+         "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/Grey-intex.jpg",
+         "name":"Grey",
+         "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/grey2.mp3",
+         "summany":"Match the word to the picture."
       }
+   ],
+   "title":"Colours",
+   "cover":"https://gamedata.britishcouncil.org/sites/default/files/attachment/Red-intex.jpg"
+}
    ]
 }
