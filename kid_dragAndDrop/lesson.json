@@ -1291,6 +1291,68 @@
    ],
    "title":"Colours",
    "cover":"https://gamedata.britishcouncil.org/sites/default/files/attachment/Red-intex.jpg"
+},
+	  {
+   "description":"Play a word game to learn and practise technology vocabulary.",
+   "less":[
+      {
+         "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS2537_Computer%20col-int.jpg",
+         "name":"Computer",
+         "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/computer2.mp3",
+         "summany":"Match the word to the picture."
+      },
+	     {
+         "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS2538_Computer%20Game%20col-int.jpg",
+         "name":"Computer Game",
+         "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/computer game.mp3",
+         "summany":"Match the word to the picture."
+      },
+	  ,
+	     {
+         "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS2540_Keyboard%20col-int.jpg",
+         "name":"Keyboard",
+         "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/keyboard2.mp3",
+         "summany":"Match the word to the picture."
+      },
+	  ,
+	     {
+         "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS2543_Mobile%20Phone%20col-int_0.jpg",
+         "name":"Mobile Phone",
+         "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/mobile phone2_0.mp3",
+         "summany":"Match the word to the picture."
+      },
+	  ,
+	     {
+         "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS2544_Mouse%20col-int.jpg",
+         "name":"Mouse",
+         "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/mouse_9.mp3",
+         "summany":"Match the word to the picture."
+      },
+	  ,
+	     {
+         "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS2545_Plug%20col-int.jpg",
+         "name":"Plug",
+         "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/plug_1.mp3",
+         "summany":"Match the word to the picture."
+      },
+	  ,
+	     {
+         "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS2546_Tablet%20col-int.jpg",
+         "name":"Tablet",
+         "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/tablet2.mp3",
+         "summany":"Match the word to the picture."
+      },
+	  ,
+	     {
+         "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS6414_Internet%20col-int_0.jpg",
+         "name":"Internet",
+         "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/internet_1.mp3",
+         "summany":"Match the word to the picture."
+      }
+   
+   ],
+   "title":"Technology",
+   "cover":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS2537_Computer%20col-int.jpg"
 }
    ]
 }
