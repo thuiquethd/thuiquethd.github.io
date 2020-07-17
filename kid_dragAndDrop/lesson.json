@@ -1353,6 +1353,85 @@
    ],
    "title":"Technology",
    "cover":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS2537_Computer%20col-int.jpg"
+},
+{
+   "description":"Play a word game to learn and practise daily routines vocabulary.",
+   "less":[
+      {
+         "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1067_Wake%20up%20col-int.jpg",
+         "name":"Wake up",
+         "sound":"http://gamedata.britishcouncil.org/sites/default/files/attachment/wake up2.mp3",
+         "summany":"Match the word to the picture."
+      },
+	  {
+         "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1059_Get%20up%20col-int.jpg",
+         "name":"Get up",
+         "sound":"http://gamedata.britishcouncil.org/sites/default/files/attachment/get up_2.mp3",
+         "summany":"Match the word to the picture."
+      },
+	   {
+         "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1063_Have%20a%20shower%20col-int.jpg",
+         "name":"Have a shower",
+         "sound":"http://gamedata.britishcouncil.org/sites/default/files/attachment/have a shower_2.mp3",
+         "summany":"Match the word to the picture."
+      },
+	   {
+         "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1056_Clean%20my%20teeth%20col-int.jpg",
+         "name":"Clean my teeth",
+         "sound":"http://gamedata.britishcouncil.org/sites/default/files/attachment/clean my teeth.mp3",
+         "summany":"Match the word to the picture."
+      },
+	   {
+         "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1058_Get%20dressed%20col-int.jpg",
+         "name":"Get dressed",
+         "sound":"http://gamedata.britishcouncil.org/sites/default/files/attachment/get dressed.mp3",
+         "summany":"Match the word to the picture."
+      },
+	   {
+         "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1064_Have%20Breakfast%20col-int.jpg",
+         "name":"Have Breakfast",
+         "sound":"http://gamedata.britishcouncil.org/sites/default/files/attachment/have breakfast_2.mp3",
+         "summany":"Match the word to the picture."
+      },
+	   {
+         "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1062_Go%20to%20school%20col-int.jpg",
+         "name":"Go to school",
+         "sound":"http://gamedata.britishcouncil.org/sites/default/files/attachment/go to school_2.mp3",
+         "summany":"Match the word to the picture."
+      },
+	   {
+         "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1066_Have%20lunch%20col-int_2.jpg",
+         "name":"Have lunch",
+         "sound":"http://gamedata.britishcouncil.org/sites/default/files/attachment/have lunch_2.mp3",
+         "summany":"Match the word to the picture."
+      },
+	   {
+         "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1060_Go%20home%20col-int.jpg",
+         "name":"Go home",
+         "sound":"http://gamedata.britishcouncil.org/sites/default/files/attachment/go home_2.mp3",
+         "summany":"Match the word to the picture."
+      },
+	   {
+         "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1057_Do%20homework%20col-int.jpg",
+         "name":"Do homework",
+         "sound":"http://gamedata.britishcouncil.org/sites/default/files/attachment/do homework_2.mp3",
+         "summany":"Match the word to the picture."
+      },
+	   {
+         "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1065_Have%20dinner%20col-int.jpg",
+         "name":"Have dinner",
+         "sound":"http://gamedata.britishcouncil.org/sites/default/files/attachment/have dinner_2.mp3",
+         "summany":"Match the word to the picture."
+      },
+	   {
+         "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1061_Go%20to%20bed%20col-int.jpg",
+         "name":"Go to bed",
+         "sound":"http://gamedata.britishcouncil.org/sites/default/files/attachment/go to bed_2.mp3",
+         "summany":"Match the word to the picture."
+      },
+   ],
+   "title":"Daily routines",
+   "cover":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1056_Clean%20my%20teeth%20col-int.jpg"
 }
    ]
 }
