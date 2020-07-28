@@ -217,6 +217,63 @@
          "cover":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1935_Rice%20col-int_2.jpg"
       },
       {
+         "description":"Play a word game to learn and practise drinks vocabulary.",
+         "less":[
+			 {
+               "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1862_Water%20col-int_0.jpg",
+               "name":"Water",
+               "sound":"http://gamedata.britishcouncil.org/sites/default/files/attachment/water_5.mp3",
+               "summany":"Match the word to the picture."
+            },{
+               "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1853_Blackcurrant%20Juice%20col-int.jpg",
+               "name":"Juice",
+               "sound":"http://gamedata.britishcouncil.org/sites/default/files/attachment/juice_6.mp3",
+               "summany":"Match the word to the picture."
+            },
+			 {
+               "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1858_Milk%20col-int.jpg",
+               "name":"Milk",
+               "sound":"http://gamedata.britishcouncil.org/sites/default/files/attachment/milk2.mp3",
+               "summany":"Match the word to the picture."
+            },
+			 {
+               "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1857_Lemonade%20col-int.jpg",
+               "name":"Lemonade",
+               "sound":"http://gamedata.britishcouncil.org/sites/default/files/attachment/lemonade.mp3",
+               "summany":"Match the word to the picture."
+            },
+			 {
+               "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1859_Milkshake%20col-int.jpg",
+               "name":"Milkshake",
+               "sound":"http://gamedata.britishcouncil.org/sites/default/files/attachment/milkshake2.mp3",
+               "summany":"Match the word to the picture."
+            }
+			,
+			 {
+               "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1856_Hot%20Chocolate%20col-int.jpg",
+               "name":"Hot Chocolate",
+               "sound":"http://gamedata.britishcouncil.org/sites/default/files/attachment/hot chocolate2.mp3",
+               "summany":"Match the word to the picture."
+            }
+			,
+			 {
+               "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1855_Cola%20col-int_0.jpg",
+               "name":"Cola",
+               "sound":"http://gamedata.britishcouncil.org/sites/default/files/attachment/cola.mp3",
+               "summany":"Match the word to the picture."
+            }
+			,
+			 {
+               "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1861_Tea%20col-int_0.jpg",
+               "name":"Tea",
+               "sound":"http://gamedata.britishcouncil.org/sites/default/files/attachment/tea2.mp3",
+               "summany":"Match the word to the picture."
+            }
+         ],
+         "title":"Drinks",
+         "cover":"https://gamedata.britishcouncil.org/sites/default/files/attachment/RS1858_Milk%20col-int.jpg"
+      },
+      {
          "description":"Play a word game to practise actions vocabulary.",
          "less":[
             {
